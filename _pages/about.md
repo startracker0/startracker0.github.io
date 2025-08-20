@@ -17,42 +17,32 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Ph.D. candidate in Computer Science and Technology at the University of Chinese Academy of Sciences (UCAS), jointly supervised by the School of Advanced Interdisciplinary Sciences (SAIS) and the Institute of Automation, Chinese Academy of Sciences (CASIA), under the guidance of Professor Xiaoshan Yang.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research focuses on open-world scene understanding, aiming to enable machines to perceive, understand, and reason about complex, dynamic, and open-ended environments. This includes work on open-vocabulary recognition, multi-modal learning, and object detection in diverse scenarios.
 
+I earned my Bachelor's degree in Electronic Information Science and Technology from the School of Information Science and Engineering at Lanzhou University. During my graduate studies, I conducted research at the Communication Center, Institute of Microelectronics, CAS, advised by Professor Jian Liu. I am currently pursuing my doctoral research at the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, CAS.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07*: &nbsp;🎉🎉 My paper is accepted by ACMMM2025!
+- *2024.12*: &nbsp;🎉🎉 My paper is accepted by AAAI2025! 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[PhysAug: A Physical-guided and Frequency-based Data Augmentation for Single-Domain Generalized Object Detection](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=m0KqWMAAAAAJ&citation_for_view=m0KqWMAAAAAJ:u5HHmVD_uO8C)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+AAAI2025: **Xiaoran Xu**, Jiangang Yang, Wenhui Shi, Siyuan Ding, Luqing Luo, Jian Liu
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[Boosting Single-domain Generalized Object Detection via Vision-Language Knowledge Interaction](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=m0KqWMAAAAAJ&citation_for_view=m0KqWMAAAAAJ:u-x6o8ySG0sC)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+ACMMM2025: **Xiaoran Xu**, Jiangang Yang, Wenyue Chong, Wenhui Shi, Shichu Sun, Jing Xing, Jian Liu
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06* Merit Student of the University of Chinese Academy of Sciences. 
+- *2024.12* Honor scholarship of the Institute of Microelectronics, CAS.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.04 - now*, Master-PhD Joint Program, School of Advanced Interdisciplinary Sciences & Institute of Automation, CAS, Beijing. 
+- *2024.09 - 2025.04*, Master-PhD Joint Program, School of Advanced Interdisciplinary Sciences, CAS, Beijing. 
+- *2022.09 - 2024.08*, Master, Institute of Microelectronics, CAS, Beijing. 
+- *2018.06 - 2022.06*, Bachelor, Lanzhou University, Gansu. 
