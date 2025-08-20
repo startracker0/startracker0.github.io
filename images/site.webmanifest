@@ -5,12 +5,12 @@
        {
           "src": "/unnamed.jpg",
           "sizes": "192x192",
-          "type": "unnamed.jpg"
+          "type": "image/jpg"
        },
        {
         "src": "/unnamed.jpg",
         "sizes": "512x512",
-        "type": "unnamed.jpg"
+        "type": "image/jpg"
         }
     ],
     "theme_color": "#FFFFFF",
