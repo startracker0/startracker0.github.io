@@ -40,6 +40,7 @@ ACMMM2025: **Xiaoran Xu**, Jiangang Yang, Wenyue Chong, Wenhui Shi, Shichu Sun, 
 # 🎖 Honors and Awards
 - *2025.06* Merit Student of the University of Chinese Academy of Sciences. 
 - *2024.12* Honor scholarship of the Institute of Microelectronics, CAS.
+- *2022 - 2025* Academic Scholarship of the University of Chinese Academy of Sciences
 
 # 📖 Educations
 - *2025.04 - now*, Master-PhD Joint Program, School of Advanced Interdisciplinary Sciences & Institute of Automation, CAS, Beijing. 
