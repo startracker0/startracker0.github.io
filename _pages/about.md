@@ -35,7 +35,7 @@ I earned my Bachelor's degree in Electronic Information Science and Technology f
 
 [Boosting Single-domain Generalized Object Detection via Vision-Language Knowledge Interaction](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=m0KqWMAAAAAJ&citation_for_view=m0KqWMAAAAAJ:u-x6o8ySG0sC)
 
-***ACMMM2025***: **Xiaoran Xu**, Jiangang Yang, Wenyue Chong, Wenhui Shi, Shichu Sun, Jing Xing, Jian Liu
+***ACMMM2025***: ***Xiaoran Xu***, Jiangang Yang, Wenyue Chong, Wenhui Shi, Shichu Sun, Jing Xing, Jian Liu
 
 # 🎖 Honors and Awards
 - *2025.06*, Merit Student of the University of Chinese Academy of Sciences. 
