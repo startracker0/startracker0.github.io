@@ -21,7 +21,7 @@ I am a Ph.D. candidate in Computer Science and Technology at ***the University o
 
 My research focuses on ***open-world scene understanding***, aiming to enable machines to perceive, understand, and reason about complex, dynamic, and open-ended environments. This includes work on open-vocabulary recognition, multi-modal learning, and object detection in diverse scenarios.
 
-I earned my Bachelor's degree in Electronic Information Science and Technology from the School of Information Science and Engineering at Lanzhou University. During my graduate studies, I conducted research at the Communication Center, Institute of Microelectronics, CAS, advised by Professor Jian Liu. I am currently pursuing my doctoral research at the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, CAS.
+I earned my Bachelor's degree in Electronic Information Science and Technology from the School of Information Science and Engineering at Lanzhou University. During my graduate studies, I conducted research at the Communication Center, Institute of Microelectronics, CAS, advised by Professor Jian Liu. I am currently pursuing my doctoral research at ***the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, CAS***.
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 My paper is accepted by ACMMM2025!
