@@ -28,7 +28,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=m0KqWMAAAAAJ"
-  email            : "xuxiaoran22@mails.ucas.ac.cn"
+  # email            : "xuxiaoran22@mails.ucas.ac.cn"
+  email            : "xuxiaoran2025@ia.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
