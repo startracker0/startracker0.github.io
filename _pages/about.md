@@ -31,11 +31,11 @@ I earned my Bachelor's degree in Electronic Information Science and Technology f
 
 [PhysAug: A Physical-guided and Frequency-based Data Augmentation for Single-Domain Generalized Object Detection](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=m0KqWMAAAAAJ&citation_for_view=m0KqWMAAAAAJ:u5HHmVD_uO8C)
 
-AAAI2025: ***Xiaoran Xu***, Jiangang Yang, Wenhui Shi, Siyuan Ding, Luqing Luo, Jian Liu
+***AAAI2025***: ***Xiaoran Xu***, Jiangang Yang, Wenhui Shi, Siyuan Ding, Luqing Luo, Jian Liu
 
 [Boosting Single-domain Generalized Object Detection via Vision-Language Knowledge Interaction](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=m0KqWMAAAAAJ&citation_for_view=m0KqWMAAAAAJ:u-x6o8ySG0sC)
 
-ACMMM2025: **Xiaoran Xu**, Jiangang Yang, Wenyue Chong, Wenhui Shi, Shichu Sun, Jing Xing, Jian Liu
+***ACMMM2025***: **Xiaoran Xu**, Jiangang Yang, Wenyue Chong, Wenhui Shi, Shichu Sun, Jing Xing, Jian Liu
 
 # 🎖 Honors and Awards
 - *2025.06*, Merit Student of the University of Chinese Academy of Sciences. 
@@ -50,3 +50,6 @@ ACMMM2025: **Xiaoran Xu**, Jiangang Yang, Wenyue Chong, Wenhui Shi, Shichu Sun, 
 - *2024.09 - 2025.04*, Master-PhD Joint Program, School of Advanced Interdisciplinary Sciences, CAS, Beijing. 
 - *2022.09 - 2024.08*, Master, Institute of Microelectronics, CAS, Beijing. 
 - *2018.06 - 2022.06*, Bachelor, Lanzhou University, Gansu. 
+
+# 💬 Invited Talks
+- *2025.10*, ACMMM2025 Oral speaking.
