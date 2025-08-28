@@ -19,9 +19,9 @@ redirect_from:
 
 I am a Ph.D. candidate in Computer Science and Technology at ***the University of Chinese Academy of Sciences (UCAS)***, jointly supervised by ***the School of Advanced Interdisciplinary Sciences (SAIS)*** and ***the Institute of Automation (CASIA)***, Chinese Academy of Sciences, under the guidance of Professor ***Xiaoshan Yang***.
 
-My research focuses on ***open-world scene understanding***, aiming to enable machines to perceive, understand, and reason about complex, dynamic, and open-ended environments. This includes work on open-vocabulary recognition, multi-modal learning, and object detection in diverse scenarios.
+My research centers on ***open-world scene understanding***—enabling machines to understand, interpret, and reason about complex, dynamic, and open-ended environments. I focus on advancing open-vocabulary recognition, multi-modal learning, and object detection in diverse scenarios.
 
-I earned my Bachelor's degree in Electronic Information Science and Technology from the School of Information Science and Engineering at Lanzhou University. During my graduate studies, I conducted research at the Communication Center, Institute of Microelectronics, CAS, advised by Professor Jian Liu. I am currently pursuing my doctoral research at ***the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, CAS***.
+Prior to my doctoral studies, I completed my Bachelor’s degree in Electronic Information Science and Technology at Lanzhou University. I then conducted research at the Communication Center, Institute of Microelectronics, CAS, advised by Professor Jian Liu. At present, I am pursuing my doctoral research at ***the State Key Laboratory of Multimodal Artificial Intelligence Systems***, Institute of Automation, CAS.
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 My paper is accepted by ACMMM2025!
