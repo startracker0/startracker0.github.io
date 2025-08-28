@@ -38,12 +38,12 @@ AAAI2025: ***Xiaoran Xu***, Jiangang Yang, Wenhui Shi, Siyuan Ding, Luqing Luo, 
 ACMMM2025: **Xiaoran Xu**, Jiangang Yang, Wenyue Chong, Wenhui Shi, Shichu Sun, Jing Xing, Jian Liu
 
 # 🎖 Honors and Awards
-- *2025.06* Merit Student of the University of Chinese Academy of Sciences. 
-- *2024.12* Honor scholarship of the Institute of Microelectronics, CAS.
-- *2022 - 2025* Academic Scholarship of the University of Chinese Academy of Sciences
-- *2023* 5th Place in China Intelligent Connected Vehicle Algorithm Challenge.
-- *2021* Merit Student of Lanzhou University. 
-- *2020* Lanzhou University Scholarship.
+- *2025.06*, Merit Student of the University of Chinese Academy of Sciences. 
+- *2024.12*, Honor scholarship of the Institute of Microelectronics, CAS.
+- *2022 - 2025*, Academic Scholarship of the University of Chinese Academy of Sciences
+- *2023*, 5th Place in China Intelligent Connected Vehicle Algorithm Challenge.
+- *2021*, Merit Student of Lanzhou University. 
+- *2020*, Lanzhou University Scholarship.
 
 # 📖 Educations
 - *2025.04 - now*, Master-PhD Joint Program, School of Advanced Interdisciplinary Sciences & Institute of Automation, CAS, Beijing. 
