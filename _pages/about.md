@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Computer Science and Technology at ***the University of Chinese Academy of Sciences (UCAS)***, jointly supervised by ***the School of Advanced Interdisciplinary Sciences (SAIS)*** and ***the Institute of Automation (CASIA)***, Chinese Academy of Sciences, under the guidance of Professor ***Xiaoshan Yang***.
+My name is Xiaoran Xu(徐笑然), currently, I am a Ph.D. candidate in Computer Science and Technology at ***the University of Chinese Academy of Sciences (UCAS)***, jointly supervised by ***the School of Advanced Interdisciplinary Sciences (SAIS)*** and ***the Institute of Automation (CASIA)***, Chinese Academy of Sciences, under the guidance of Professor ***Xiaoshan Yang***.
 
 My research centers on ***open-world scene understanding***—enabling machines to understand, interpret, and reason about complex, dynamic, and open-ended environments. I focus on advancing open-vocabulary recognition, multi-modal learning, and object detection in diverse scenarios.
 
