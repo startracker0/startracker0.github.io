@@ -24,8 +24,8 @@ My research centers on ***open-world scene understanding***, enabling machines t
 Prior to my doctoral studies, I completed my Bachelor’s degree in Electronic Information Science and Technology at Lanzhou University. I then conducted research at the Communication Center, Institute of Microelectronics, CAS, advised by Professor Jian Liu. At present, I am pursuing my doctoral research at ***the State Key Laboratory of Multimodal Artificial Intelligence Systems***, Institute of Automation, CAS.
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 My paper is accepted by ACMMM2025!
-- *2024.12*: &nbsp;🎉🎉 My paper is accepted by AAAI2025! 
+- *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACMMM2025!
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI2025! 
 
 # 📝 Publications 
 
@@ -51,5 +51,7 @@ Prior to my doctoral studies, I completed my Bachelor’s degree in Electronic I
 - *2022.09 - 2024.08*, Master, Institute of Microelectronics, CAS, Beijing. 
 - *2018.06 - 2022.06*, Bachelor, Lanzhou University, Gansu. 
 
-# 💬 Invited Talks
-- *2025.10*, ACMMM2025 Oral speaking.
+# 💬 Reviewer Services
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025–2026
+- Association for the Advancement of Artificial Intelligence (AAAI) 2025–2026
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
