@@ -52,6 +52,7 @@ Prior to my doctoral studies, I completed my Bachelor’s degree in Electronic I
 - *2018.06 - 2022.06*, Bachelor, Lanzhou University, Gansu. 
 
 # 💬 Reviewer Services
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025–2026
-- Association for the Advancement of Artificial Intelligence (AAAI) 2025–2026
+- The 18th European Conference on Computer Vision (ECCV) 2026
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
+- Association for the Advancement of Artificial Intelligence (AAAI) 2026
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
