@@ -24,6 +24,7 @@ My research centers on ***open-world scene understanding***, enabling machines t
 Prior to my doctoral studies, I completed my Bachelor’s degree in Electronic Information Science and Technology at Lanzhou University. I then conducted research at the Communication Center, Institute of Microelectronics, CAS, advised by Professor Jian Liu. At present, I am pursuing my doctoral research at ***the State Key Laboratory of Multimodal Artificial Intelligence Systems***, Institute of Automation, CAS.
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML2026! One paper is accepted by ICIP2026! 
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACMMM2025!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI2025! 
 
