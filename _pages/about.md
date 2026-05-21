@@ -24,6 +24,7 @@ My research centers on ***open-world scene understanding***, enabling machines t
 Prior to my doctoral studies, I completed my Bachelor’s degree in Electronic Information Science and Technology at Lanzhou University. I then conducted research at the Communication Center, Institute of Microelectronics, CAS, advised by Professor Jian Liu. At present, I am pursuing my doctoral research at ***the State Key Laboratory of Multimodal Artificial Intelligence Systems***, Institute of Automation, CAS.
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper is accepted by Neural Networks!
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML2026! One paper is accepted by ICIP2026! 
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACMMM2025!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI2025! 
@@ -37,6 +38,18 @@ Prior to my doctoral studies, I completed my Bachelor’s degree in Electronic I
 [Boosting Single-domain Generalized Object Detection via Vision-Language Knowledge Interaction](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=m0KqWMAAAAAJ&citation_for_view=m0KqWMAAAAAJ:u-x6o8ySG0sC)
 
 ***ACMMM2025***: ***Xiaoran Xu***, Jiangang Yang, Wenyue Chong, Wenhui Shi, Shichu Sun, Jing Xing, Jian Liu
+
+[M2UR: Meta-Guided Multi-Expert with Uncertainty-Aware Refinement Framework for Video Summarization]
+
+***ICIP2026***: Yupeng Wu*, ***Xiaoran Xu\{*\}***, Xiaoshan Yang, Changsheng Xu
+
+[Suppress and Diversify: Refining Robust Pathways for Corruption Robustness]
+
+***ICML2026***: Jiangang Yang, Wenhui Shi, ***Xiaoran Xu***, Wenyue Chong, Luqing Luo, Jing Xing, Jian Liu 
+
+[Robust Network Pruning for Enhanced Accuracy under Perturbations via Structural and Distributional Consistency]
+
+***Neural Networks***: Wenhui Shi, Jiangang Yang, Yangbin Xu, **Xiaoran Xu***, Wenyue Chong, Jian Liu 
 
 # 🎖 Honors and Awards
 - *2025.06*, Merit Student of the University of Chinese Academy of Sciences. 
