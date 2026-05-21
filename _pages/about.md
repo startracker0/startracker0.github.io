@@ -33,23 +33,24 @@ Prior to my doctoral studies, I completed my Bachelor’s degree in Electronic I
 
 [PhysAug: A Physical-guided and Frequency-based Data Augmentation for Single-Domain Generalized Object Detection](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=m0KqWMAAAAAJ&citation_for_view=m0KqWMAAAAAJ:u5HHmVD_uO8C)
 
-***AAAI2025***: ***Xiaoran Xu***, Jiangang Yang, Wenhui Shi, Siyuan Ding, Luqing Luo, Jian Liu
+***AAAI 2025***: ***Xiaoran Xu***, Jiangang Yang, Wenhui Shi, Siyuan Ding, Luqing Luo, Jian Liu
 
 [Boosting Single-domain Generalized Object Detection via Vision-Language Knowledge Interaction](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=m0KqWMAAAAAJ&citation_for_view=m0KqWMAAAAAJ:u-x6o8ySG0sC)
 
-***ACMMM2025***: ***Xiaoran Xu***, Jiangang Yang, Wenyue Chong, Wenhui Shi, Shichu Sun, Jing Xing, Jian Liu
+***ACM MM 2025***: ***Xiaoran Xu***, Jiangang Yang, Wenyue Chong, Wenhui Shi, Shichu Sun, Jing Xing, Jian Liu
 
-[M2UR: Meta-Guided Multi-Expert with Uncertainty-Aware Refinement Framework for Video Summarization]
+**M2UR: Meta-Guided Multi-Expert with Uncertainty-Aware Refinement Framework for Video Summarization**
 
-***ICIP2026***: Yupeng Wu*, ***Xiaoran Xu\{*\}***, Xiaoshan Yang, Changsheng Xu
+***ICIP 2026, to be released***: Yupeng Wu*, <strong><em>Xiaoran Xu</em></strong>*, Xiaoshan Yang, Changsheng Xu  
+*Equal contribution.
 
-[Suppress and Diversify: Refining Robust Pathways for Corruption Robustness]
+**Suppress and Diversify: Refining Robust Pathways for Corruption Robustness**
 
-***ICML2026***: Jiangang Yang, Wenhui Shi, ***Xiaoran Xu***, Wenyue Chong, Luqing Luo, Jing Xing, Jian Liu 
+***ICML 2026, to be released***: Jiangang Yang, Wenhui Shi, ***Xiaoran Xu***, Wenyue Chong, Luqing Luo, Jing Xing, Jian Liu
 
-[Robust Network Pruning for Enhanced Accuracy under Perturbations via Structural and Distributional Consistency]
+[Robust Network Pruning for Enhanced Accuracy under Perturbations via Structural and Distributional Consistency](https://doi.org/10.1016/j.neunet.2026.109152)
 
-***Neural Networks***: Wenhui Shi, Jiangang Yang, Yangbin Xu, **Xiaoran Xu***, Wenyue Chong, Jian Liu 
+***Neural Networks***: Wenhui Shi, Jiangang Yang, Yangbin Xu, ***Xiaoran Xu***, Wenyue Chong, Jian Liu
 
 # 🎖 Honors and Awards
 - *2025.06*, Merit Student of the University of Chinese Academy of Sciences. 
