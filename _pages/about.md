@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Xiaoran Xu(徐笑然), currently, I am a Ph.D. candidate in Computer Science and Technology at ***the University of Chinese Academy of Sciences (UCAS)***, jointly supervised by ***the School of Advanced Interdisciplinary Sciences (SAIS)*** and ***the Institute of Automation (CASIA)***, Chinese Academy of Sciences, under the guidance of Professor ***Xiaoshan Yang***.
+My name is Xiaoran Xu (徐笑然). I am a Ph.D. candidate in Computer Science and Technology at the University of Chinese Academy of Sciences (UCAS), jointly affiliated with the School of Advanced Interdisciplinary Sciences (SAIS) and the Institute of Automation, Chinese Academy of Sciences (CASIA). I am advised by Prof. Xiaoshan Yang and conduct my research at the State Key Laboratory of Multimodal Artificial Intelligence Systems.
 
-My research centers on ***open-world scene understanding***, enabling machines to understand, interpret, and reason about complex, dynamic, and open-ended environments. I focus on advancing open-vocabulary recognition, multi-modal learning, and object detection in diverse scenarios.
+My research focuses on open-world scene understanding, including scene and object recognition, multimodal learning, and robust object detection in complex and dynamic environments.
 
-Prior to my doctoral studies, I completed my Bachelor’s degree in Electronic Information Science and Technology at Lanzhou University. I then conducted research at the Communication Center, Institute of Microelectronics, CAS, advised by Professor Jian Liu. At present, I am pursuing my doctoral research at ***the State Key Laboratory of Multimodal Artificial Intelligence Systems***, Institute of Automation, CAS.
+Before I joined SAIS, I received my B.Sc. degree in Electronic Information Science and Technology from Lanzhou University and conducted research at the Communication Center, Institute of Microelectronics, CAS, advised by Dr. Jiangang Yang and Prof. Jian Liu.
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted by Neural Networks!
