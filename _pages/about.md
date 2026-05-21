@@ -41,7 +41,7 @@ Prior to my doctoral studies, I completed my Bachelor’s degree in Electronic I
 
 3. **M2UR: Meta-Guided Multi-Expert with Uncertainty-Aware Refinement Framework for Video Summarization**
 
-   ***ICIP 2026, to be released***: Yupeng Wu*, <strong><em>Xiaoran Xu</em></strong>*, Xiaoshan Yang, Changsheng Xu  
+   ***ICIP 2026, to be released***: Yupeng Wu*, ***Xiaoran Xu****, Xiaoshan Yang, Changsheng Xu  
    *Equal contribution.
 
 4. **Suppress and Diversify: Refining Robust Pathways for Corruption Robustness**
