@@ -71,3 +71,6 @@ Before I joined SAIS, I received my B.Sc. degree in Electronic Information Scien
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
 - Association for the Advancement of Artificial Intelligence (AAAI) 2026
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+
+# 💼 Internship Experience
+- Research Intern, Tencent Hunyuan Frontier
