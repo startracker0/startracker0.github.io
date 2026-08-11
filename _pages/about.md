@@ -52,7 +52,7 @@ Before I joined SAIS, I received my B.Sc. degree in Electronic Information Scien
 
    ***Neural Networks***: Wenhui Shi, Jiangang Yang, Yangbin Xu, ***Xiaoran Xu***, Wenyue Chong, Jian Liu
 
-6. [Hy-Embodied-VLM-1.0: Efficient Physical-World Agents](https://doi.org/10.1016/j.neunet.2026.109152](https://arxiv.org/html/2607.12894v1)
+6. [Hy-Embodied-VLM-1.0: Efficient Physical-World Agents](https://arxiv.org/html/2607.12894v1)
 
    ***Technical Report***: Tencent Robotics X, ***Hy Vision Team***, Futian Laboratory
 
