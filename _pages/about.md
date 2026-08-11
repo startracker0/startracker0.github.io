@@ -67,6 +67,7 @@ Before I joined SAIS, I received my B.Sc. degree in Electronic Information Scien
 - *2018.06 - 2022.06*, Bachelor, Lanzhou University, Gansu. 
 
 # 💬 Reviewer Services
+- Association for the Advancement of Artificial Intelligence (AAAI) 2027
 - The 18th European Conference on Computer Vision (ECCV) 2026
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
 - Association for the Advancement of Artificial Intelligence (AAAI) 2026
