@@ -46,7 +46,7 @@ Before I joined SAIS, I received my B.Sc. degree in Electronic Information Scien
 
 4. [Suppress and Diversify: Refining Robust Pathways for Corruption Robustness](https://arxiv.org/abs/2608.06712)
 
-   ***ICML 2026, to be released***: Jiangang Yang, Wenhui Shi, ***Xiaoran Xu***, Wenyue Chong, Luqing Luo, Jing Xing, Jian Liu
+   ***ICML 2026***: Jiangang Yang, Wenhui Shi, ***Xiaoran Xu***, Wenyue Chong, Luqing Luo, Jing Xing, Jian Liu
 
 5. [Robust Network Pruning for Enhanced Accuracy under Perturbations via Structural and Distributional Consistency](https://doi.org/10.1016/j.neunet.2026.109152)
 
