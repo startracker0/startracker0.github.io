@@ -44,13 +44,17 @@ Before I joined SAIS, I received my B.Sc. degree in Electronic Information Scien
    ***ICIP 2026, to be released***: Yupeng Wu*, ***Xiaoran Xu****, Xiaoshan Yang, Changsheng Xu  
    *Equal contribution.
 
-4. **Suppress and Diversify: Refining Robust Pathways for Corruption Robustness**
+4. [Suppress and Diversify: Refining Robust Pathways for Corruption Robustness](https://arxiv.org/abs/2608.06712)
 
    ***ICML 2026, to be released***: Jiangang Yang, Wenhui Shi, ***Xiaoran Xu***, Wenyue Chong, Luqing Luo, Jing Xing, Jian Liu
 
 5. [Robust Network Pruning for Enhanced Accuracy under Perturbations via Structural and Distributional Consistency](https://doi.org/10.1016/j.neunet.2026.109152)
 
    ***Neural Networks***: Wenhui Shi, Jiangang Yang, Yangbin Xu, ***Xiaoran Xu***, Wenyue Chong, Jian Liu
+
+6. [Hy-Embodied-VLM-1.0: Efficient Physical-World Agents](https://doi.org/10.1016/j.neunet.2026.109152](https://arxiv.org/html/2607.12894v1)
+
+   ***Technical Report***: Tencent Robotics X, ***Hy Vision Team***, Futian Laboratory
 
 # 🎖 Honors and Awards
 - *2025.06*, Merit Student of the University of Chinese Academy of Sciences. 
