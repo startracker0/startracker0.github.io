@@ -39,9 +39,9 @@ Before I joined SAIS, I received my B.Sc. degree in Electronic Information Scien
 
    ***ACM MM 2025***: ***Xiaoran Xu***, Jiangang Yang, Wenyue Chong, Wenhui Shi, Shichu Sun, Jing Xing, Jian Liu
 
-3. **M2UR: Meta-Guided Multi-Expert with Uncertainty-Aware Refinement Framework for Video Summarization**
+3. [M2UR: Meta-Guided Multi-Expert with Uncertainty-Aware Refinement Framework for Video Summarization](https://ieeexplore.ieee.org/abstract/document/11630213)
 
-   ***ICIP 2026, to be released***: Yupeng Wu*, ***Xiaoran Xu****, Xiaoshan Yang, Changsheng Xu  
+   ***ICIP 2026***: Yupeng Wu*, ***Xiaoran Xu****, Xiaoshan Yang, Changsheng Xu  
    *Equal contribution.
 
 4. [Suppress and Diversify: Refining Robust Pathways for Corruption Robustness](https://arxiv.org/abs/2608.06712)
